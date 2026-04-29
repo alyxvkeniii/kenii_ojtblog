@@ -103,12 +103,12 @@ $images = [
     ['src' => asset('image/docu/9_9.jpg'), 'month' => 'apr'],
 
     // WEEK 10 - MAY
-    ['src' => asset('image/docu/10_1.jpg'), 'month' => 'may'],
-    ['src' => asset('image/docu/10_2.jpg'), 'month' => 'may'],
-    ['src' => asset('image/docu/10_3.jpg'), 'month' => 'may'],
-    ['src' => asset('image/docu/10_4.jpg'), 'month' => 'may'],
-    ['src' => asset('image/docu/10_5.jpg'), 'month' => 'may'],
-    ['src' => asset('image/docu/10_6.jpg'), 'month' => 'may'],
+    ['src' => asset('image/docu/10_1.jpg'), 'month' => 'apr'],
+    ['src' => asset('image/docu/10_2.jpg'), 'month' => 'apr'],
+    ['src' => asset('image/docu/10_3.jpg'), 'month' => 'apr'],
+    ['src' => asset('image/docu/10_4.jpg'), 'month' => 'apr'],
+    ['src' => asset('image/docu/10_5.jpg'), 'month' => 'apr'],
+    ['src' => asset('image/docu/10_6.jpg'), 'month' => 'apr'],
 ];
 @endphp
 

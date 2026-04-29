@@ -3,6 +3,10 @@
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
+    return 'DOCKER LARAVEL WORKS 🚀';
+});
+
+Route::get('/', function () {
     return view('home'); // You can duplicate the logs logic for a preview here
 });
 

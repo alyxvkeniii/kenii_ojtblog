@@ -165,10 +165,10 @@
 
             <x-log-card 
                 week="10" 
-                title="My First Days in the Office" 
+                title="Events Review and Financial Analysis" 
                 date=" April 27-30 2026"
-                content=""
-                moreContent=""
+                content="From April 27 to 29, 2026, my tasks mainly involved checking travel order requirements and working on financial-related outputs. On April 27, I reviewed and validated documents for various colleges and activities such as NSTP-LTS immersion programs, academic support initiatives, gala events, atmospheric studies programs, and recognition and tribute events. My responsibility was to ensure that all requirements submitted by different groups were complete and properly organized."
+                moreContent="On April 28, I continued checking requirements for the BUGC 22nd Recognition Rites 2026. On April 29, I worked on preparing the Financial Summary and Budget Utilization Analysis, which helped me better understand how funds are monitored and evaluated across different activities."
                 :images="[
                     asset('image/docu/10_1.jpg'),
                     asset('image/docu/10_2.jpg'),
