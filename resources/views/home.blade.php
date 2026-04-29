@@ -15,7 +15,7 @@
 
 <div class="max-w-md mx-auto bg-white rounded-3xl p-6 shadow-lg border border-orange-50 hover:-translate-y-2 transition-transform duration-300">
     <div class="flex flex-col items-center">
-        <img src="{{ asset('image/pfp1.jpg') }}" 
+        <img src="{{ asset('image/pfp1.JPG') }}" 
              class="w-32 h-32 shadow-inner mb-4 border-4 border-white">
         
         <h2 class="text-2xl font-bold text-slate-800">KEN ANNE JAYO ACOSTA</h2>
