@@ -19,7 +19,7 @@
     {{-- User Header --}}
     <div class="p-4 flex items-center space-x-3">
         <div class="w-10 h-10 rounded-full bg-gradient-to-tr from-orange-300 to-blue-300 p-0.5">
-            <img src="{{ asset('image/pfp1.jpg') }}" class="rounded-full w-full h-full object-cover">
+            <img src="{{ asset('image/pfp1.JPG') }}" class="rounded-full w-full h-full object-cover">
         </div>
         <div>
             <h4 class="font-bold text-sm">alyxvkeniii</h4>

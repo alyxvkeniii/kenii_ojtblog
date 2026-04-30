@@ -167,15 +167,50 @@
                 week="10" 
                 title="Events Review and Financial Analysis" 
                 date=" April 27-30 2026"
-                content="From April 27 to 29, 2026, my tasks mainly involved checking travel order requirements and working on financial-related outputs. On April 27, I reviewed and validated documents for various colleges and activities such as NSTP-LTS immersion programs, academic support initiatives, gala events, atmospheric studies programs, and recognition and tribute events. My responsibility was to ensure that all requirements submitted by different groups were complete and properly organized."
-                moreContent="On April 28, I continued checking requirements for the BUGC 22nd Recognition Rites 2026. On April 29, I worked on preparing the Financial Summary and Budget Utilization Analysis, which helped me better understand how funds are monitored and evaluated across different activities."
+                content="From April 27 to 30, 2026, my tasks focused on checking travel order requirements, preparing reports, and organizing data. On April 27 and 28, I reviewed documents for various activities such as NSTP immersions, academic programs, recognition rites, and organizational events. My responsibility was to ensure that all submitted requirements were complete, accurate, and properly arranged before approval."
+                moreContent="On April 29, I worked on a Financial Summary and Budget Utilization Analysis, while also handling tasks such as downloading COR for the One-Time Grant of BU Guinobatan and BU Daraga, and checking documents for events like CS Night 2026 and alumni activities. On April 30, I organized undergraduate program information for each college and campus into Google Docs for the USDS GForms."
                 :images="[
                     asset('image/docu/10_1.jpg'),
                     asset('image/docu/10_2.jpg'),
                     asset('image/docu/10_3.jpg'),
                     asset('image/docu/10_4.jpg'),
                     asset('image/docu/10_5.jpg'),
-                    asset('image/docu/10_6.jpg')
+                    asset('image/docu/10_6.jpg'),
+                    asset('image/docu/10_7.jpg'),
+                    asset('image/docu/10_8.jpg'),
+                    asset('image/docu/10_9.jpg')
+                ]"     
+            />
+
+            <x-log-card 
+                week="11" 
+                title="Events Review and Financial Analysis" 
+                date=" May 4-8 2026"
+                content=""
+                moreContent=""
+                :images="[
+                    asset('image/docu/11_1.jpg'),
+                    asset('image/docu/11_2.jpg'),
+                    asset('image/docu/11_3.jpg'),
+                    asset('image/docu/11_4.jpg'),
+                    asset('image/docu/11_5.jpg'),
+                    asset('image/docu/11_6.jpg')
+                ]"     
+            />
+
+            <x-log-card 
+                week="12" 
+                title="Events Review and Financial Analysis" 
+                date=" May 11-15 2026"
+                content=""
+                moreContent=""
+                :images="[
+                    asset('image/docu/12_1.jpg'),
+                    asset('image/docu/12_2.jpg'),
+                    asset('image/docu/12_3.jpg'),
+                    asset('image/docu/12_4.jpg'),
+                    asset('image/docu/12_5.jpg'),
+                    asset('image/docu/12_6.jpg')
                 ]"     
             />
         </div>
