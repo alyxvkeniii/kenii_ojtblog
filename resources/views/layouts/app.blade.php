@@ -19,7 +19,7 @@
         <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between h-16 items-center">
                 <a href="/" class="text-xl md:text-2xl font-bold text-orange-500 hover:scale-105 transition">
-                    ✨ OJT<span class="text-blue-400 font-medium">Logs</span>
+                    OJT<span class="text-blue-400 font-medium">Logs</span>
                 </a>
                 
                 <div class="hidden md:flex space-x-8 text-sm font-bold uppercase tracking-widest text-slate-600">

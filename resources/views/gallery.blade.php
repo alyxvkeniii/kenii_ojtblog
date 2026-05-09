@@ -106,11 +106,13 @@ $images = [
     ['src' => asset('image/docu/10_4.jpg'), 'month' => 'apr'],
     ['src' => asset('image/docu/10_5.jpg'), 'month' => 'apr'],
     ['src' => asset('image/docu/10_6.jpg'), 'month' => 'apr'],
+    ['src' => asset('image/docu/10_7.jpg'), 'month' => 'apr'],
+    ['src' => asset('image/docu/10_8.jpg'), 'month' => 'apr'],
+    ['src' => asset('image/docu/10_9.jpg'), 'month' => 'apr'],
 
      // WEEK 11 - MAY
     ['src' => asset('image/docu/11_1.jpg'), 'month' => 'may'],
     ['src' => asset('image/docu/11_2.jpg'), 'month' => 'may'],
-    ['src' => asset('image/docu/11_3.jpg'), 'month' => 'may'],
     ['src' => asset('image/docu/11_4.jpg'), 'month' => 'may'],
     ['src' => asset('image/docu/11_5.jpg'), 'month' => 'may'],
     ['src' => asset('image/docu/11_6.jpg'), 'month' => 'may'],

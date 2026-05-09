@@ -3,7 +3,7 @@
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return 'DOCKER LARAVEL WORKS 🚀';
+    return 'DOCKER LARAVEL WORKS ';
 });
 
 Route::get('/', function () {

@@ -6,7 +6,7 @@
     <div class="max-w-2xl mx-auto py-10 px-4">
         {{-- Page Header --}}
         <header class="mb-10 text-center">
-            <h1 class="text-4xl font-extrabold text-slate-800 mb-2">Weekly Ganaps ✨</h1>
+            <h1 class="text-4xl font-extrabold text-slate-800 mb-2">Weekly Ganaps</h1>
             <p class="text-slate-500 max-w-md mx-auto">
                 A collection of my OJT journey at Bicol University, documented through code and memories.
             </p>

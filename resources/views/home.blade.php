@@ -5,7 +5,7 @@
 @section('content')
 <div class="text-center py-12">
     <div class="relative inline-block">
-        <div class="absolute -top-6 -right-6 text-4xl animate-bounce">✨</div>
+        <div class="absolute -top-6 -right-6 text-4xl animate-bounce"></div>
         <h1 class="text-5xl font-extrabold text-slate-800 tracking-tight">
             My OJT <span class="text-orange-500 underline decoration-blue-200">Adventure</span>
         </h1>
