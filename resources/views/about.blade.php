@@ -13,7 +13,7 @@
     </div>
 
     <div class="w-full lg:w-2/3 text-center lg:text-left space-y-6">
-        <h1 class="text-4xl md:text-6xl font-black text-slate-800">The <span class="text-blue-400 underline decoration-orange-200">Creative</span> Intern.</h1>
+        <h1 class="text-4xl md:text-6xl font-black text-slate-800">The <span class="text-blue-400 underline decoration-orange-200">Student</span> Intern.</h1>
         <p class="text-lg text-slate-600 leading-relaxed">
             A fourth-year IT student at Bicol University gaining practical experience through OJT, involving document organization, requirement verification, report encoding, student assistance, and basic system-related tasks in a real office environment.
         </p>

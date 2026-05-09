@@ -61,17 +61,17 @@ $images = [
     ['src' => asset('image/docu/5_4.jpg'), 'month' => 'mar'],
     ['src' => asset('image/docu/5_5.jpg'), 'month' => 'mar'],
 
-    // WEEK 6 - APR
-    ['src' => asset('image/docu/6_1.jpg'), 'month' => 'apr'],
-    ['src' => asset('image/docu/6_2.jpg'), 'month' => 'apr'],
-    ['src' => asset('image/docu/6_3.jpg'), 'month' => 'apr'],
-    ['src' => asset('image/docu/6_4.jpg'), 'month' => 'apr'],
-    ['src' => asset('image/docu/6_5.jpg'), 'month' => 'apr'],
-    ['src' => asset('image/docu/6_6.jpg'), 'month' => 'apr'],
-    ['src' => asset('image/docu/6_7.jpg'), 'month' => 'apr'],
-    ['src' => asset('image/docu/6_8.jpg'), 'month' => 'apr'],
-    ['src' => asset('image/docu/6_9.jpg'), 'month' => 'apr'],
-    ['src' => asset('image/docu/6_10.jpg'), 'month' => 'apr'],
+    // WEEK 6 - MAR
+    ['src' => asset('image/docu/6_1.jpg'), 'month' => 'mar'],
+    ['src' => asset('image/docu/6_2.jpg'), 'month' => 'mar'],
+    ['src' => asset('image/docu/6_3.jpg'), 'month' => 'mar'],
+    ['src' => asset('image/docu/6_4.jpg'), 'month' => 'mar'],
+    ['src' => asset('image/docu/6_5.jpg'), 'month' => 'mar'],
+    ['src' => asset('image/docu/6_6.jpg'), 'month' => 'mar'],
+    ['src' => asset('image/docu/6_7.jpg'), 'month' => 'mar'],
+    ['src' => asset('image/docu/6_8.jpg'), 'month' => 'mar'],
+    ['src' => asset('image/docu/6_9.jpg'), 'month' => 'mar'],
+    ['src' => asset('image/docu/6_10.jpg'), 'month' => 'mar'],
 
     // WEEK 7 - APR
     ['src' => asset('image/docu/7_1.jpg'), 'month' => 'apr'],
