@@ -35,7 +35,7 @@
                 title="Assisting Students and Managing Records" 
                 date="March 2-6, 2026"
                 content="From March 2 to 6, 2026, my tasks continued to focus on organizing student documents while slowly taking on more responsibilities in the office. At the start of the week, I worked on sorting student files and was also assigned to create venue rules. As the days went by, I began assisting students who were submitting their scholarship requirements. I helped receive their documents and checked if all the needed requirements were complete."
-                moreContent="On the following days, I continued assisting students, especially those applying for scholarships like TDP. I was also assigned to check the COG and COR of students from BU Polangui who were qualified as honor awardees. These tasks helped me improve my attention to detail and communication skills, especially when dealing directly with students."
+                moreContent="On the following days, I continued assisting students, especially those applying for scholarships like TDP. I was also assigned to check the COG and COR of students from BU Polangui who were qualified as honor awardees."
                 :images="[
                     asset('image/docu/2_1.jpg'),
                     asset('image/docu/2_2.jpg'),
@@ -50,7 +50,7 @@
                 title="Organizing Files and Developing Content" 
                 date=" March 9-13, 2026"
                 content="From March 9 to 13, 2026, my tasks mainly involved continuously sorting and arranging students’ documents into their proper folders to keep everything organized. This task required patience and attention to detail since the files needed to be grouped correctly according to their respective categories to ensure easier document management and retrieval."
-                moreContent="On March 13, we started our work-from-home arrangement. During this time, I worked on conceptualizing content for the OSAS Website under the Institutional Student Programs and Services (ISPS) Office. This task allowed me to contribute ideas for the website’s content while applying my creativity and knowledge in web-related work."
+                moreContent="On March 13, we started our work-from-home arrangement. During this time, I worked on conceptualizing content for the OSAS Website under the Institutional Student Programs and Services (ISPS) Office. "
                 :images="[
                     asset('image/docu/3_1.jpg'),
                     asset('image/docu/3_2.jpg'),
@@ -66,7 +66,7 @@
                 title="Requirement Checking and Web Design Task" 
                 date=" March 16-19, 2026"
                 content="From March 16 to 20, 2026, my tasks involved checking different student requirements and working on a design task. On March 16, I reviewed the travel order requirements of several groups, including NSTP-LTS (CBEM) and BSA sections, ensuring their documents were properly organized in their assigned folders. On March 17 and 18, I continued checking requirements for other groups such as NSTP-CWTS, BUIDeaA’s, BTVTED, FSIE Field Experience, and Medicine students for Palarong Medisina, making sure everything was complete and correctly arranged."
-                moreContent="On March 19, I had a work-from-home setup where I focused on designing the plan and development for updating the OSAS section of the BU website. This task allowed me to apply my creativity and technical skills, especially in web design."
+                moreContent="On March 19, I had a work-from-home setup where I focused on designing the plan and development for updating the OSAS section of the BU website."
                 :images="[
                     asset('image/docu/4_1.jpg'),
                     asset('image/docu/4_2.jpg'),
@@ -95,7 +95,7 @@
                 title="Travel Order Validation and System Development" 
                 date=" March 30-31, April 1 2026"
                 content="From March 30 to April 1, 2026, my tasks focused on checking and validating travel order requirements of different colleges and organizations. On March 30 and 31, I reviewed documents for various activities such as Project PULSE, industrial visits, conferences, practicum programs, NSTP field immersions, and organization events. My role was to make sure that all submitted requirements were complete, correct, and properly organized before approval."
-                moreContent="On April 1, I had a work-from-home setup where I worked on a system development task titled “SDS: USDS Transaction Monitoring (Report Generation Color Enhancement).” This allowed me to apply my technical skills, particularly in improving the visual presentation of reports."
+                moreContent="On April 1, I had a work-from-home setup where I worked on a system development task titled “SDS: USDS Transaction Monitoring (Report Generation Color Enhancement).”"
                 :images="[
                     asset('image/docu/6_1.jpg'),
                     asset('image/docu/6_2.jpg'),
@@ -131,7 +131,7 @@
                 title="Data Encoding and Meeting Documentation" 
                 date=" April 13-17 2026"
                 content="From April 13 to 17, 2026, my tasks focused on documentation, verification, and administrative work. On April 13, I created an Excel file for the USC/CSC candidates and attended a meeting for the USC deliberation of requirements. On April 14, I worked on inputting details for the USC Financial Report for A.Y. 2025–2026 into an Excel file, where I carefully checked receipts and disbursements to ensure there were no discrepancies in the summary, particularly for the Liquidation Expenditure Overview for the first semester."
-                moreContent="On April 15 and 17, I worked on transcribing the USC/CSC Election Meeting 2026, both in the office and during a work-from-home setup. On April 16, I also continued checking travel order requirements for various events, such as the 60th BIODATA Annual Convention and Scientific Session, the 22nd Executive Convention of Health Code International, and IECEP-BSC ElectroCup 2026. These tasks helped me improve my accuracy, attention to detail, and documentation skills."
+                moreContent="On April 15 and 17, I worked on transcribing the USC/CSC Election Meeting 2026, both in the office and during a work-from-home setup. On April 16, I also continued checking travel order requirements for various events, such as the 60th BIODATA Annual Convention and Scientific Session, the 22nd Executive Convention of Health Code International, and IECEP-BSC ElectroCup 2026."
                 :images="[
                     asset('image/docu/8_1.jpg'),
                     asset('image/docu/8_2.jpg'),
