@@ -47,10 +47,10 @@
 
             <x-log-card 
                 week="3" 
-                title="My First Days in the Office" 
+                title="Organizing Files and Developing Content" 
                 date=" March 9-13, 2026"
-                content=""
-                moreContent=""
+                content="From March 9 to 13, 2026, my tasks mainly involved continuously sorting and arranging students’ documents into their proper folders to keep everything organized. This task required patience and attention to detail since the files needed to be grouped correctly according to their respective categories to ensure easier document management and retrieval."
+                moreContent="On March 13, we started our work-from-home arrangement. During this time, I worked on conceptualizing content for the OSAS Website under the Institutional Student Programs and Services (ISPS) Office. This task allowed me to contribute ideas for the website’s content while applying my creativity and knowledge in web-related work."
                 :images="[
                     asset('image/docu/3_1.jpg'),
                     asset('image/docu/3_2.jpg'),
