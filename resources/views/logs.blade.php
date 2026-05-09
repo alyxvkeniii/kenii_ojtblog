@@ -71,24 +71,22 @@
                     asset('image/docu/4_1.jpg'),
                     asset('image/docu/4_2.jpg'),
                     asset('image/docu/4_3.jpg'),
-                    asset('image/docu/4_4.jpg'),
-                    asset('image/docu/4_5.jpg')
+                    asset('image/docu/4_4.jpg')
                 ]"     
             />
 
             <x-log-card 
                 week="5" 
-                title="My First Days in the Office" 
+                title="Requirement Checking and System Development" 
                 date=" March 23-27, 2026"
-                content=""
-                moreContent=""
+                content="From March 23 to 27, 2026, my tasks mainly involved checking travel order requirements for different colleges and organizations to ensure that their documents were complete and correct for both on-campus and off-campus activities. I started handling requirement checking for BUCENG Engineering Week 2026 and also assisted the Office of the Dean in listing the presidents, advisers, email addresses, and year established of every student organization in Bicol University. In addition, we were tasked to create a Frequently Asked Questions (FAQ) document regarding the services offered by the OSAS office where we were assigned."
+                moreContent="On March 24 and 25, I continuously checked requirements for various college and organization events and activities related to travel orders. On March 26 and 27, during the work-from-home arrangement, I worked on the Design Plan and Development for updating the OSAS section of the BU Website and also contributed to the System Development for SDS: USDS Transaction Monitoring."
                 :images="[
                     asset('image/docu/5_1.jpg'),
                     asset('image/docu/5_2.jpg'),
                     asset('image/docu/5_3.jpg'),
                     asset('image/docu/5_4.jpg'),
-                    asset('image/docu/5_5.jpg'),
-                    asset('image/docu/5_6.jpg')
+                    asset('image/docu/5_5.jpg')
                 ]"     
             />
 
@@ -108,8 +106,7 @@
                     asset('image/docu/6_7.jpg'),
                     asset('image/docu/6_8.jpg'),
                     asset('image/docu/6_9.jpg'),
-                    asset('image/docu/6_10.jpg'),
-                    asset('image/docu/6_11.jpg')               
+                    asset('image/docu/6_10.jpg')              
                 ]"     
             />
 
@@ -191,7 +188,6 @@
                 :images="[
                     asset('image/docu/11_1.jpg'),
                     asset('image/docu/11_2.jpg'),
-                    asset('image/docu/11_3.jpg'),
                     asset('image/docu/11_4.jpg'),
                     asset('image/docu/11_5.jpg'),
                     asset('image/docu/11_6.jpg'),

@@ -53,7 +53,6 @@ $images = [
     ['src' => asset('image/docu/4_2.jpg'), 'month' => 'mar'],
     ['src' => asset('image/docu/4_3.jpg'), 'month' => 'mar'],
     ['src' => asset('image/docu/4_4.jpg'), 'month' => 'mar'],
-    ['src' => asset('image/docu/4_5.jpg'), 'month' => 'mar'],
 
     // WEEK 5 - MAR
     ['src' => asset('image/docu/5_1.jpg'), 'month' => 'mar'],
@@ -61,7 +60,6 @@ $images = [
     ['src' => asset('image/docu/5_3.jpg'), 'month' => 'mar'],
     ['src' => asset('image/docu/5_4.jpg'), 'month' => 'mar'],
     ['src' => asset('image/docu/5_5.jpg'), 'month' => 'mar'],
-    ['src' => asset('image/docu/5_6.jpg'), 'month' => 'mar'],
 
     // WEEK 6 - APR
     ['src' => asset('image/docu/6_1.jpg'), 'month' => 'apr'],
@@ -74,7 +72,6 @@ $images = [
     ['src' => asset('image/docu/6_8.jpg'), 'month' => 'apr'],
     ['src' => asset('image/docu/6_9.jpg'), 'month' => 'apr'],
     ['src' => asset('image/docu/6_10.jpg'), 'month' => 'apr'],
-    ['src' => asset('image/docu/6_11.jpg'), 'month' => 'apr'],
 
     // WEEK 7 - APR
     ['src' => asset('image/docu/7_1.jpg'), 'month' => 'apr'],
@@ -102,13 +99,24 @@ $images = [
     ['src' => asset('image/docu/9_8.jpg'), 'month' => 'apr'],
     ['src' => asset('image/docu/9_9.jpg'), 'month' => 'apr'],
 
-    // WEEK 10 - MAY
+    // WEEK 10 - APR
     ['src' => asset('image/docu/10_1.jpg'), 'month' => 'apr'],
     ['src' => asset('image/docu/10_2.jpg'), 'month' => 'apr'],
     ['src' => asset('image/docu/10_3.jpg'), 'month' => 'apr'],
     ['src' => asset('image/docu/10_4.jpg'), 'month' => 'apr'],
     ['src' => asset('image/docu/10_5.jpg'), 'month' => 'apr'],
     ['src' => asset('image/docu/10_6.jpg'), 'month' => 'apr'],
+
+     // WEEK 11 - MAY
+    ['src' => asset('image/docu/11_1.jpg'), 'month' => 'may'],
+    ['src' => asset('image/docu/11_2.jpg'), 'month' => 'may'],
+    ['src' => asset('image/docu/11_3.jpg'), 'month' => 'may'],
+    ['src' => asset('image/docu/11_4.jpg'), 'month' => 'may'],
+    ['src' => asset('image/docu/11_5.jpg'), 'month' => 'may'],
+    ['src' => asset('image/docu/11_6.jpg'), 'month' => 'may'],
+    ['src' => asset('image/docu/11_7.jpg'), 'month' => 'may'],
+    ['src' => asset('image/docu/11_8.jpg'), 'month' => 'may'],
+    ['src' => asset('image/docu/11_9.jpg'), 'month' => 'may'],
 ];
 @endphp
 
