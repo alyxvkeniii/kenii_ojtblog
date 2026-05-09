@@ -184,33 +184,20 @@
 
             <x-log-card 
                 week="11" 
-                title="Events Review and Financial Analysis" 
+                title="Documentation, Meetings, and System Monitoring" 
                 date=" May 4-8 2026"
-                content=""
-                moreContent=""
+                content="From May 4 to 9, 2026, my tasks involved checking travel order requests, preparing reports, attending meetings, and updating records. On May 4 and 5, I reviewed and processed requests related to travel orders, outreach programs, and student activities, including the extension request for BSN III students and the “Heat in Action” and “Books and Bites” community outreach program. I also attended an online meeting for the BU Student Internship Program, which provided insights about internship implementation and coordination."
+                moreContent="On May 6 to 8, I assisted in various office tasks such as BU ID printing, preparing minutes of meetings for SIP Midyear 2026, reviewing requests for clinical clerk deployment, checking accomplishment and financial reports, and documenting the USC Election 2026. On May 9, during the work-from-home arrangement, I continued working on the minutes of the meeting for the implementation of the Student Internship Program Midyear 2026 and encoded college and organization activities into the USDS Document Tracking System."
                 :images="[
                     asset('image/docu/11_1.jpg'),
                     asset('image/docu/11_2.jpg'),
                     asset('image/docu/11_3.jpg'),
                     asset('image/docu/11_4.jpg'),
                     asset('image/docu/11_5.jpg'),
-                    asset('image/docu/11_6.jpg')
-                ]"     
-            />
-
-            <x-log-card 
-                week="12" 
-                title="Events Review and Financial Analysis" 
-                date=" May 11-15 2026"
-                content=""
-                moreContent=""
-                :images="[
-                    asset('image/docu/12_1.jpg'),
-                    asset('image/docu/12_2.jpg'),
-                    asset('image/docu/12_3.jpg'),
-                    asset('image/docu/12_4.jpg'),
-                    asset('image/docu/12_5.jpg'),
-                    asset('image/docu/12_6.jpg')
+                    asset('image/docu/11_6.jpg'),
+                    asset('image/docu/11_7.jpg'),
+                    asset('image/docu/11_8.jpg'),
+                    asset('image/docu/11_9.jpg')
                 ]"     
             />
         </div>
